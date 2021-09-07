@@ -1,3 +1,11 @@
-#snake {
-    background-color: aquamarine;
+  
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(165, 110, 110);
+    color: rgb(52, 152, 165);
 }
